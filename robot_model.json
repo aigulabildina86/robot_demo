@@ -1,0 +1,17 @@
+{
+  "feature": 0,
+  "threshold": 20.0,
+  "left": {
+    "feature": 1,
+    "threshold": 17.5,
+    "left": {
+      "action": "Тоқтау"
+    },
+    "right": {
+      "action": "Солға бұрылу"
+    }
+  },
+  "right": {
+    "action": "Алға жүру"
+  }
+}
